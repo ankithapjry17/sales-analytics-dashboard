@@ -5,7 +5,7 @@ import psycopg2
 conn = psycopg2.connect(
     dbname="sales_db",
     user="postgres",
-    password="postgres123",
+    password="postgre@ise",
     host="localhost",
     port="5432"
 )
